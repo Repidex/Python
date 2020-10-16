@@ -14,3 +14,4 @@ Besides, Python is dynamically typed, i.e., we don’t need to define variable d
 ## Variables:-
 ###Variables are used to store values in memory. We can store integers, decimals, characters, words or sentences in a variable. 
 Python is completely object oriented, and not ### statically typed. we do not need to declare variables before using them, or declare their type. Every variable in Python is an object.
+Example:-[Variable example](https://github.com/Repidex/Python/blob/main/Exercise/Variables.py)
