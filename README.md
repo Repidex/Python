@@ -10,3 +10,7 @@ Python is an interpreted language, not a compiled one. This statement means that
 Besides, Python is dynamically typed, i.e., we don’t need to define variable data type ahead of time; Python automatically guesses the data type of the variable based on the type of value it contains.
 
 ![alt text](https://github.com/Repidex/Python/blob/main/Exercise/giphy%20(1).gif)
+
+## Variables:-
+###Variables are used to store values in memory. We can store integers, decimals, characters, words or sentences in a variable. 
+Python is completely object oriented, and not ### statically typed. we do not need to declare variables before using them, or declare their type. Every variable in Python is an object.
