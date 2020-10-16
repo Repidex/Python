@@ -8,3 +8,5 @@ Python is an interpreted language, not a compiled one. This statement means that
 
 ## Dynamically type
 Besides, Python is dynamically typed, i.e., we don’t need to define variable data type ahead of time; Python automatically guesses the data type of the variable based on the type of value it contains.
+
+![alt text](https://github.com/Repidex/Python/blob/main/Exercise/giphy%20(1).gif)
