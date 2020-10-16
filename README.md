@@ -24,3 +24,22 @@ isinstance(object, classinfo)
 
 It returns True if the object is an instance or subclass of a class or any element of the tuple False otherwise.
 For example:- isinstance(x, int)
+
+# Numeric Types
+It is used to store numeric values. For example: x=10, y = 20.10, Amount = 15,000b etc. 
+Python supports three different types of numbers, listed as follows:
+### Int (integers)
+### Float (decimal numbers)
+### Complex (complex numbers)
+Integers are positive or negative whole numbers with no decimal point.for example :- 1,2,,55,1100 ...
+Floats are numbers containing a decimal point (.). For example: 2.5, 14.2 ...
+
+Python also provides support for complex numbers of the form $\ a + bJ$, where a and b are floats and J's value is the square root of minus 1. Its real part is a and the imaginary part is b.
+
+# Type Conversion
+During data manipulation, there might arise a need for converting an integer to float, float to an integer, float to a string, or splitting on a decimal point in a float.
+      int(x) converts it to an integer.
+
+      float(x) converts it to a float.
+
+      complex(x) converts it to a complex number with real part x and imaginary part 0.
